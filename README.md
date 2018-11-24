@@ -1,0 +1,2 @@
+# KillMinusCoin
+pmmp KillMinusCoin
