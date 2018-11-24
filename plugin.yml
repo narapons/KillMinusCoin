@@ -2,4 +2,4 @@ name: KillMinusCoin
 main: Main\main
 author: narapon
 version: 1.0.0
-api: [3.0.0, 4.0.0]
+api: [3.3.2, 4.0.0]
